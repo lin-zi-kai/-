@@ -1,0 +1,15 @@
+﻿  SeqList.c
+F:\C语言\SeqList\SeqList\SeqList.c(81,15): warning C4018: “<”: 有符号/无符号不匹配
+F:\C语言\SeqList\SeqList\SeqList.c(92,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C语言\SeqList\SeqList\SeqList.c(101,2): warning C4018: “<=”: 有符号/无符号不匹配
+F:\C语言\SeqList\SeqList\SeqList.c(113,34): warning C4028: 形参 2 与声明不同
+F:\C语言\SeqList\SeqList\SeqList.c(117,15): warning C4018: “<”: 有符号/无符号不匹配
+F:\C语言\SeqList\SeqList\SeqList.c(134,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C语言\SeqList\SeqList\SeqList.c(144,35): warning C4028: 形参 2 与声明不同
+  test.c
+F:\C语言\SeqList\SeqList\test.c(55,25): warning C4020: “SeqListPopBack”: 实参太多
+F:\C语言\SeqList\SeqList\test.c(66,26): warning C4020: “SeqListPopFront”: 实参太多
+F:\C语言\SeqList\SeqList\test.c(80,24): warning C4047: “函数”:“SQDataType”与“int *”的间接级别不同
+F:\C语言\SeqList\SeqList\test.c(80,22): warning C4024: “SeqListFind”: 形参和实参 2 的类型不同
+  正在生成代码...
+  SeqList.vcxproj -> F:\C语言\SeqList\Debug\SeqList.exe
